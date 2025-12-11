@@ -11,23 +11,28 @@
 ---
 
 <div align="center">
+  <h3>🛠 Lenguajes y Herramientas</h3>
 
-<h3>Lenguajes y Herramientas</h3>
+  <p><b>Desarrollo Fullstack & Backend</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,cs,ts,html,css,dotnet,fastapi" />
+    </a>
+  </p>
 
-<p><b>Lenguajes y Frameworks Principales</b></p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,py,cs,js,html,css" />
-  </a>
-</p>
+  <p><b>Ciencia de Datos & IA</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=tensorflow,postgres,sklearn" />
+    </a>
+  </p>
 
-<p><b>Data, Bases de Datos & Herramientas</b></p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,selenium,octave,git,github" />
-  </a>
-</p>
-
+  <p><b>Herramientas & Automatización</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=selenium,git,github,postman" />
+    </a>
+  </p>
 </div>
 
 ---
