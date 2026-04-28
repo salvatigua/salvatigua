@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Salvador Tiguá</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas de Información en UTN FRCU</h3>
+<h3 align="center">Ingeniero en Sistemas de Información | UTN FRCU</h3>
 
 <div align="center">
 
